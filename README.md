@@ -1,0 +1,1 @@
+A telegram bot built to remind message after a custom interval. Use Google Cloud Function to deploy.
